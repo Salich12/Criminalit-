@@ -18,16 +18,16 @@ Ce projet de reporting sur la criminalité à San Francisco se concentre sur l'i
 
 
 ### Home - Navigation de pages
-![Aperçu des Ventes Mensuelles](Capture.png)
+![Aperçu des Ventes Mensuelles](Capture.JPG)
 
 ### Synthese
-![Aperçu des Ventes Mensuelles](Capture1.png)
+![Aperçu des Ventes Mensuelles](Capture1.JPG)
 
 ### Rentabilité des Produits
-![Aperçu des Ventes Mensuelles](Capture2.png)
+![Aperçu des Ventes Mensuelles](Capture2.JPG)
 
 ### Données Démographiques des Clients
-![Aperçu des Ventes Mensuelles](Capture3.png)
+![Aperçu des Ventes Mensuelles](Capture3.JPG)
 
 ### Performance par Magasin
-![Aperçu des Ventes Mensuelles](Capture4.png)
+![Aperçu des Ventes Mensuelles](Capture4.JPG)
